@@ -1,0 +1,24 @@
+.Navbar-block{
+    background-color: aqua;
+}
+
+li{
+    background: #000;
+    color: aliceblue;
+    width: 100px;
+    padding: 10px;
+    margin: 8px;
+    border: whitesmoke dotted 2.5px;
+    border-radius: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+ul {
+    display: inline;
+    display: flex;
+    
+}
